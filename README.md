@@ -1,4 +1,3 @@
-# javascript-dom
 
 ## Javascript
 - Traversing the DOM
