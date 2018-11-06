@@ -19,3 +19,7 @@
 - When click the corresponding key on the keyboard the sound accocaited with this key will play
 
 ![image](https://user-images.githubusercontent.com/26104823/48030160-2e7ccf00-e11e-11e8-9064-c42e497b7e36.png)
+
+## Course Manager
+- Uses Local Storage to store user data
+- Uses Event Delegation on list
