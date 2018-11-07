@@ -1,0 +1,52 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Aria, sans-serif;
+}
+
+a {
+    color: #00B7FF;
+}
+
+ul {
+    padding: 0;
+}
+
+.wrapper-name {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+ul li {
+    list-style-type: none;
+    background: antiquewhite;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+ul li .edit {
+    display: none;
+}
+
+ul li.edit .edit {
+    display: initial;
+}
+
+ul li.edit .noedit {
+    display: none;
+}
+
+.remove {
+    float: right;
+    margin-top: -2px;
+    border: none;
+}
+
+#add-order {
+    border: none;
+    background: gainsboro;
+}
+
+.input-group {
+    margin: auto;
+    margin-top: 40px;
+}
