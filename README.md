@@ -25,3 +25,8 @@
 - Uses Event Delegation on list
 
 ![image](https://user-images.githubusercontent.com/26104823/48085450-46a92880-e1c8-11e8-9ace-a1299f940c80.png)
+
+## jQuery-ajax
+- Uses $.ajax()
+
+![image](https://user-images.githubusercontent.com/26104823/48228445-2ff30500-e373-11e8-907c-a4652004eb0f.png)
