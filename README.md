@@ -26,6 +26,7 @@
 
 ![image](https://user-images.githubusercontent.com/26104823/48085450-46a92880-e1c8-11e8-9ace-a1299f940c80.png)
 
+
 ## jQuery-ajax
 - Uses $.ajax()
 
