@@ -31,4 +31,5 @@
 ## jQuery-ajax
 - Uses $.ajax()
 
+
 ![image](https://user-images.githubusercontent.com/26104823/48228445-2ff30500-e373-11e8-907c-a4652004eb0f.png)
